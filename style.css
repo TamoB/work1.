@@ -1,0 +1,14 @@
+*{box-sizing: border-box;}
+body{
+    margin: 0;
+    padding: 0;
+    padding-left: 39px;
+    padding-right: 56px;
+}
+
+.h4-1{
+    font-size: 20px;
+    text-align: center; 
+    color: #000000;
+}
+.h4-2 {margin-top: 32px;}
